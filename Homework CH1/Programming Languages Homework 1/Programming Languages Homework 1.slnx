@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2.21/2.21.vcxproj" />
+  <Project Path="2.23/2.23.vcxproj" />
+  <Project Path="2.24/2.24.vcxproj" />
+  <Project Path="2.25/2.25.vcxproj" />
+  <Project Path="2.26/2.26.vcxproj" />
+  <Project Path="2.27/2.27.vcxproj" />
+  <Project Path="2.31/2.31.vcxproj" />
+  <Project Path="2.32/2.32.vcxproj" />
+  <Project Path="2.33/2.33.vcxproj" />
+</Solution>
